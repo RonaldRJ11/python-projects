@@ -1,8 +1,7 @@
 import random
 import os
 from game_data import data
-from logo import hl_logo
-from logo import vs
+from logo import hl_logo, vs
 os.system("cls")
 print(hl_logo)
 
